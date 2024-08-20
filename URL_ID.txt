@@ -1,0 +1,441 @@
+ML and AI-based insurance premium model to predict premium to be charged by the insurance company - Blackcoffer Insights
+
+Client Background Client: A leading insurance firm worldwide Industry Type: BFSI Products & Services: Insurance Organization Size: 10000+ The Problem The insurance industry, particularly in the context of providing coverage to Public Company Directors against Insider Trading public lawsuits, faces a significant challenge in accurately determining insurance premiums. Traditional methods of premium calculation may lack precision, and there is […]
+Streamlined Integration: Interactive Brokers API with Python for Desktop Trading Application - Blackcoffer Insights
+
+Client Background Client: A leading fintech firm in the USA Industry Type: Finance Products & Services: Trading, Banking, Financing Organization Size: 100+ The Problem Our Solution Solution Architecture Deliverables Tech Stack What are the technical Challenges Faced during Project Execution How the Technical Challenges were Solved Summarize Summarized: https://blackcoffer.com/ This project was done by the Blackcoffer Team, a Global […]
+Efficient Data Integration and User-Friendly Interface Development: Navigating Challenges in Web Application Deployment - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in the USA Industry Type: IT Products & Services: IT Consulting Organization Size: 100+ The Problem Our Solution Solution Architecture Deliverables Tech Stack What are the technical Challenges Faced during Project Execution How the Technical Challenges were Solved Summarize Summarized: https://blackcoffer.com/ This project was done by the Blackcoffer Team, a Global IT […]
+Effective Management of Social Media Data Extraction: Strategies for Authentication, Security, and Reliability - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in the USA Industry Type: IT Products & Services: Consulting, Product & Services Organization Size: 100+ The Problem Our Solution Solution Architecture Deliverables Tech Stack What are the technical Challenges Faced during Project Execution How the Technical Challenges were Solved Summarize Summarized: https://blackcoffer.com/ This project was done by the Blackcoffer Team, a […]
+Streamlined Trading Operations Interface for MetaTrader 4: Empowering Efficient Management and Monitoring - Blackcoffer Insights
+
+Client Background Client: A leading fintech firm in the USA Industry Type: Finance Products & Services: Trading, Investment, Financing Organization Size: 100+ The Problem Our Solution Solution Architecture Deliverables Tech Stack What are the technical Challenges Faced during Project Execution How the Technical Challenges were Solved Summarize Summarized: https://blackcoffer.com/ This project was done by the Blackcoffer Team, a Global […]
+Efficient AWS Infrastructure Setup and Management: Addressing Security, Scalability, and Compliance - Blackcoffer Insights
+
+Client Background Client: A leading Consulting firm in the USA Industry Type: IT Products & Services: IT Consulting Organization Size: 1000+ The Problem Our Solution Solution Architecture Deliverables Tech Stack What are the technical Challenges Faced during Project Execution How the Technical Challenges were Solved Summarize Summarized: https://blackcoffer.com/ This project was done by the Blackcoffer Team, a Global IT […]
+Streamlined Equity Waterfall Calculation and Deal Management System - Blackcoffer Insights
+
+Client Background Client: A leading real estate firm in the USA Industry Type: Real Estate Products & Services: Real Estate, Construction, Financing Organization Size: 100+ The Problem Our Solution Solution Architecture Deliverables Tech Stack What are the technical Challenges Faced during Project Execution How the Technical Challenges were Solved Project website url : https://stackshares.io/  Summarize Summarized: https://blackcoffer.com/ This project […]
+Automated Orthopedic Case Report Generation: Harnessing Web Scraping and AI Integration - Blackcoffer Insights
+
+Client Background Client: A leading health-tech firm in the USA Industry Type: Healthcare Products & Services: Medical solutions, healthcare Organization Size: 100+ The Problem Our Solution Solution Architecture Deliverables Tech Stack What are the technical Challenges Faced during Project Execution How the Technical Challenges were Solved Summarize Summarized: https://blackcoffer.com/ This project was done by the Blackcoffer Team, a Global […]
+Streamlining Time Calculation in Warehouse Management: Leveraging ShipHero API and Google BigQuery Integration - Blackcoffer Insights
+
+Client Background Client: A leading retail firm in the USA Industry Type: Retail Products & Services: Retail Solutions, Supply Chain, Warehouse Management Organization Size: 100+ The Problem Our Solution Solution Architecture Deliverables [GitHub Repositories URL: Tech Stack What are the technical Challenges Faced during Project Execution How the Technical Challenges were Solved Project website url http://app.shiphero.com/ Summarize Summarized: https://blackcoffer.com/ […]
+Efficient Database Design and Management: Streamlining Access and Integration for Partner Entity Management - Blackcoffer Insights
+
+Client Background Client: A leading IT firm in the Europe Industry Type: IT Products & Services: IT Services, Consulting and Automation Organization Size: 100+ The Problem Our Solution Solution Architecture Deliverables Tech Stack What are the technical Challenges Faced during Project Execution How the Technical Challenges were Solved Project website url http://34.18.45.30:8000/api/admin/login/?next=/api/admin/  Summarize Summarized: https://blackcoffer.com/ This project was done […]
+Automated Campaign Management System: A Comprehensive Solution with LinkedIn and Email Integration - Blackcoffer Insights
+
+Client Background Client: A leading marketing tech firm worldwide Industry Type: Marketing Products & Services: Ad Tech, Marketing Automation, Lead Management Organization Size: 100+ The Problem Our Solution Solution Architecture Tech Stack What are the technical Challenges Faced during Project Execution How the Technical Challenges were Solved Project website url :  Summarize Summarized: https://blackcoffer.com/ This project was done by […]
+AI-driven data analysis AI tool using Langchain for a leading real estate and financing firm worldwide - Blackcoffer Insights
+
+Client Background Client: A leading real estate and financing firm worldwide Industry Type: Real Estate Products & Services: Infrastructure Development, Financing, Real Estate Organization Size: 10000+ The Problem Creating a user-friendly data analysis tool capable of interpreting natural language queries and providing insightful analyses from CSV data. The tool should facilitate seamless interaction, enabling users to gain valuable insights […]
+Grafana Dashboard to visualize and analyze sensors’ data - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in the USA Industry Type: IT Products & Services: IT & Consulting, Software Development, DevOps Organization Size: 100+ The Problem The client requires a Grafana dashboard that can fetch data from a web API providing historical data of building automation systems. The dashboard needs to allow manual entry of a target URL […]
+MVP for a software that analyses content from audio (Pharma-based) - Blackcoffer Insights
+
+Client Background Client: A leading pharma-tech firm in the USA Industry Type: Healthcare Products & Services: Pharma Apps Organization Size: 100+ The Problem The problem lies in creating a backend model for an application that records audio responses from students and uses AI to analyze the content. The backend needs to convert audio to text, transform the text into […]
+Data Engineering and Management tool (Airbyte) with custom data connectors to manage CRM database - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in Europe Industry Type: IT Products & Services: IT & Consulting, Software Development Organization Size: 1000+ The Problem Our company requires a robust, scalable, and secure data integration solution that can handle thousands of connections. We need to develop Airbyte connectors for various software applications listed in 2-nx-integration, including Join Portal, […]
+Text Summarizing Tool to scrape and summarize pubmed medical papers  - Blackcoffer Insights
+
+Client Background Client: A leading medical R&D firm in the USA Industry Type: Medical Products & Services: R&D Organization Size: 10000+ The Problem An advanced AI tool designed specifically for doctors to assist them in retrieving answers to their queries. Powered by state-of-the-art AI technologies, including web scraping and ChatGPT, The AI Assistant aims to streamline information retrieval and […]
+7up7down, 10upDown, Snakes and Ladder Games built using OOPs - Blackcoffer Insights
+
+Client Background Client: A leading game development firm in the USA Industry Type: Gaming Software Products & Services: Gaming Software Development Organization Size: 200+ The Problem Our client sends records of millions of sports bets in real time from all over the world via an API. These bets are recorded in MySQL servers. We are tasked with processing and […]
+Data Studio Dashboard with a data pipeline tool synced with Podio using custom Webhooks and Google Cloud Function - Blackcoffer Insights
+
+Client Background Client: A leading retail firm in the USA Industry Type: Retail Products & Services: Retail Business, e-commerce Organization Size: 300+ The Problem The client needs a consolidated KPI dashboard that aggregates data from various applications and SaaS products. Currently, the data is scattered across different platforms, making it difficult to track key performance indicators (KPIs) effectively. The […]
+End-to-end tool to optimize routing and planning of field engineers using Google’s CVRP-TW algorithm - Blackcoffer Insights
+
+Client Background Client: A leading hardware firm in the USA Industry Type: IT Products & Services: IT Consulting, Support, Hardware Installations Organization Size: 300+ The Problem The client specializes in installing blinds and related products in customers’ homes. They are currently struggling with scheduling appointments efficiently due to a variety of factors such as location, installation duration, team member […]
+End-to-end tool to predict Biofuel prices using IESO data - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in the USA Industry Type: IT Products & Services: IT Consulting, Software Development Organization Size: 100+ The Problem The task involves creating an end-to-end data pipeline to extract data from various reports, store it in a Google Cloud Platform (GCP) database, build a dashboard, and develop a machine learning model for price […]
+ETL Discovery Tool using LLMA, Langchain, OpenAI - Blackcoffer Insights
+
+Client Background Client: A leading retail firm in the USA Industry Type: Retail Products & Services: Retail Business, e-commerce Organization Size: 100+ The Problem To develop an ETL discovery tool that can answer the queries related to ETL pipelines in conversational format. The areas of the concerned queries should include Environment Analysis, Workflow Analysis, Data Source and Target Mapping, […]
+GPT/OCR API - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in the USA Industry Type: IT & Consulting Products & Services: IT Solutions, Software Development Organization Size: 100+ The Problem Design and develop an API as a service backend, the API should be integrated with GPT and OCR technologies to extract documents it should be hosted on Azure Our Solution Deliverables All […]
+Dockerize the AWS Lambda for serverless architecture - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in the USA Industry Type: IT & Consulting Products & Services: IT Solutions, Software Development Organization Size: 100+ The Problem  AWS Lambda, a powerful serverless compute service, faces limitations in terms of runtime customization, dependency management, and execution environment isolation. Our Solution To overcome the challenges mentioned above, we propose a comprehensive […]
+Design and develop a product recommendation engine based on the features of products - Blackcoffer Insights
+
+Client Background Client: A leading retail firm in the USA Industry Type: Retail Products & Services: Retail Business, e-commerce Organization Size: 100+ The Problem Design and develop a product recommendation engine based on the features of products Our Solution Content-based product recommendation system has been created using Machine Learning Algorithm and Python. Solution Architecture Recommendation engine have six cases […]
+Database Discovery Tool using OpenAI - Blackcoffer Insights
+
+Client Background Client: A leading retail firm in the USA Industry Type: Retail Products & Services: Retail Business, e-commerce Organization Size: 100+ Problem Statement: Organizations often face challenges in managing and understanding their vast and complex databases. As data infrastructure evolves, new databases are introduced, and existing ones are modified, leading to a lack of comprehensive visibility into the […]
+Automate the Data Management Process - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in the USA Industry Type:  IT Services: SaaS, Products Organization Size: 100+ Project Description Businesses now have more access to data than ever before in today’s digital economy. This information is utilised to make key business choices. Businesses should invest in data management systems that increase visibility, dependability, security, and scalability to […]
+Realtime Kibana Dashboard for a financial tech firm - Blackcoffer Insights
+
+Client Background Client: A leading fintech firm in the USA Industry Type: Finance Services: Financial services Organization Size: 100+ Project Objective Create a real-time Kibana dashboard to monitor the real-time movement and activities related to company/stock on the AWS to analyse data and get insights through dashboards to prevent due diligence. Dashboard should include visualizations of sentiments, FOIA requests, […]
+Data Management, ETL, and Data Automation - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in the USA Industry Type:  IT Services: SaaS, Products Organization Size: 100+ Project Objective To extract the data for the given keywords from the listed websites https://www.ferguson.com/, https://www.bakerdist.com/, https://www.hajoca.com/, https://www.carrier.com/residential/en/us/, https://www.gemaire.com/, https://www.fwwebb.com/ and store the count of each keywords for each website it in an Excel File. Project Description A list of […]
+Data Management - EGEAS - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in the USA Industry Type:  IT Services: SaaS, Products Organization Size: 100+ Project Objective To extract various Reports from the given input files. Reports to be extracted are: PRODUCTION COST – ANNUAL BY UNITS REPORT, SYSTEM EMISSIONS ANNUAL REPORT, RPS CONSTRAINT – ANNUAL REPORT, RELIABILITY – ANNUAL REPORT, RESERVE – ANNUAL REPORT […]
+Design and develop PowerShell script - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in the USA Industry Type:  IT Services: SaaS, Products Organization Size: 100+ The Problem Create a PowerShell script for the following: Our Solution check and enable auditing for checking and enabling auditing of the file we used  PowerShell NTFSSecurity module configuring winrm for remote windows server For this we created 2 script: […]
+Design and develop Jenkins shared library - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in the USA Industry Type:  IT Services: SaaS, Products Organization Size: 100+ The Problem Create Jenkins shared library for the following: Our Solution Deliverables Jenkins Libraries Tools used Language/techniques used Skills used Web Cloud Servers used AWS Project Snapshots Project Video Contact Details Here are my contact details: Email: ajay@blackcoffer.com Skype: asbidyarthy […]
+Design and develop retool app for wholecell.io and Asana data using their api’s - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in the USA Industry Type:  IT Services: SaaS, Products Organization Size: 100+ The Problem Create retool app for wholecell.io and Asana data using their api’s Our Solution We have created two table one table contain data from wholecell.io platform and another table contain data from Assna.  In that wholecell.io table we are […]
+Design and develop a retool app that will show stock and crypto related information using IEX API - Blackcoffer Insights
+
+Client Background Client: A leading fintech firm in the USA Industry Type:  Finance Services: Crypto, financial services, banking, trading, stock markets Organization Size: 100+ The Problem Create a retool app that will show stock and crypto related information using IEX API Our Solution Created a flask web application with following features and pages: Page 1 (Home page)– Show […]
+CRM (Monday.com, Make.com) to Data Warehouse to Klipfolio Dashboard - Blackcoffer Insights
+
+Client Background Client: A leading marketing firm in the USA Industry Type:  IT Services: Marketing, promotions, campaigns, consulting, business growth Organization Size: 100+ The Problem The client requires a dashboard for a ”week in review” and “human resources”. The dashboard should be dynamic whenever the client opens the dashboard, it should show the current week and should also have […]
+NER Task using BERT with data in XML-format - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in the USA Industry Type:  IT Services: SaaS, Products Organization Size: 100+ The Problem The goal of this task is to create and implement a workflow that annotates People/Places/Organizations and assigns them a specific number (from a normdatabase). The NER-Task should be done by using Bert (NER-German https://huggingface.co/flair/ner-german or something similar). Our Solution  The […]
+Qualtrics API integration using Python - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in the USA Industry Type:  IT Services: SaaS, Products Organization Size: 100+ The Problem API Integration to read/write data in SQL tables from an online application. Our Solution To write the api between qualtrics and sql server using python programming language. Solution Architecture Fig. System Architecture Deliverables Python Software Documentation Tools used […]
+Design and develop MLops framework for Data-centric AI - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in the USA Industry Type:  IT Services: SaaS, Products Organization Size: 100+ The Problem The task involves finding models and tools for several different tasks across various domains. The tasks include video and image capturing, working with documents such as PDF and Excel files, converting text to audio, audio capturing and transcription, […]
+NLP-based Approach for Data Transformation - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in the USA Industry Type:  IT Services: SaaS, Products Organization Size: 100+ The Problem Performing Readability and Quality testing on the text corpus from text files Our Solution The intention was to create a tool/system that can consume text files through a given csv file having a path for all the text […]
+An ETL tool to pull data from Shiphero to Google Bigquery Data Warehouse - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in the USA Industry Type:  IT Services: SaaS, Products Organization Size: 100+ The Problem Shiphero company is an organization providing shipping solutions to vendors. The data created by shiphero for different product picking and packing time period doesn’t provide much insight into the efficiency of ship hero employees and other aspects that […]
+Plaid Financial Analytics - A Data-Driven Dashboard to generate insights - Blackcoffer Insights
+
+Client Background Client: A leading financial firm in the USA Industry Type:  Finance Services: Financial Services Organization Size: 100+ The Problem Applying automation to Financial data coming from the Plaid platform that needs to be visualized in order to get better insights and metrics from data. Our Solution The intention was to create an automation tool that could consume […]
+Recommendation Engine for Insurance Sector to Expand Business in the Rural Area - Blackcoffer Insights
+
+Client Background Client: A leading insurance firm in the globe Industry Type:  Insurance Services: SaaS, Products, Insurance Organization Size: 10000+ Project Objective Project Description BangDB is the platform that manages the static data stored on the cluster and also works with live streaming data as Hadoop does. Wherever the bangdb is able to manage machine learning model deployment with […]
+Data from CRM via Zapier to Google Sheets (Dynamic) to PowerBI - Blackcoffer Insights
+
+Client Background Client: A leading solar panel firm in the USA Industry Type: Energy Services: Solar Panel Organization Size: 500+ The Problem Solar Panel organization from America wants to keep track of sales data. They want to see the leadership dashboard of their organization in terms of sales. They also want to keep track of their campaigns and […]
+Data Warehouse to Google Data Studio (Looker) Dashboard - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in the USA Industry Type:  IT Services: SaaS, Products, healthcare, government, energy Organization Size: 100+ The Problem Our client needed a Google Data Studio dashboard for different sectors such as Oil and Gas, Government, Healthcare, and Sales analysis. They want to see an analysis of data from which they can provide insights […]
+CRM, Monday.com via Zapier to Power BI Dashboard - Blackcoffer Insights
+
+Client Background Client: A leading solar panel firm in the USA Industry Type:  Energy Services: Solar Panel Organization Size: 200+ Project Description Mohsin has Solar Panel Company. He has setup CRMs for that. He wanted to use CRMs data and want to visualize the leads in PowerBI Our Solution First, we check CRMs thoroughly and understand the work culture […]
+Monday.com to KPI Dashboard to manage, view, and generate insights from the CRM data - Blackcoffer Insights
+
+Client Background Client: A leading energy firm in the USA Industry Type:  Energy Services: Solar panel Organization Size: 200+ Project Objective Project Description Mohsin has CRM for his business where he has all data regarding leads of his clients. He wanted to see all his client appointments at one place. Client took subscription of Monday.com. It is an CRM […]
+Data Management for a Political SaaS Application - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in the USA Industry Type:  IT Services: SaaS, Products Organization Size: 100+ The Problem As per the guidelines and discussion. Political Research Automated Data Acquisition (PRADA) in the following phases which included. 1. Get pics for existing EOs (Elected Officials) 2. Get new EOs and Pictures. 3. Run QA checks regularly on […]
+Google LSA Ads (Google Local Service Ads) – ETL tools and Dashboards - Blackcoffer Insights
+
+Client Background Client: A leading marketing firm in the USA Industry Type:  Marketing Services: Ads, Marketing, Campaign, Consulting Organization Size: 200+ The Problem The client has a Google LSA Ads Manager Account with about 100+ accounts and wishes to collect data available through the Google LSA API daily. The client wishes to set up a private Databases that is […]
+Ad Networks Marketing Campaign Data Dashboard in Looker (Google Data Studio) - Blackcoffer Insights
+
+Client Background Client: A leading financial firm in Dubai Industry Type:  Financial Services Services: Banking, Financial Services, Card Payments, Mobile Payments, Digital Bank, and FinTech Organization Size: 200+ The Problem Build dashboards unifying all the platforms in use: Google Ads, FB ads, Appsflyer, Mixpanel, etc,in order to be able to track everything in the funnel from traffic source to […]
+Analytical solution for a tech firm - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in the USA Industry Type:  IT Services: Consulting Organization Size: 100+ The Problem The client’s organization had a project that matches URLs up using TF-IDF algorithm.  The script threw some errors and resolving these errors was the immediate ask.  The client also required us to adjust the script for better accuracy and […]
+AI solution for a Technology, Information and Internet firm - Blackcoffer Insights
+
+Client Background Client: A leading Technology, Information and Internet firm in India Industry Type:  IT Services: Emerging Technologies, 2030, and 2050 Organization Size: 10+ The Problem The objective was to analyze, research, and propose data science solutions in the product based on the product design, use cases, and services. Our Solution        b. List needed data        c. List process                      d. […]
+AI and NLP-based Solutions to Automate Data Discovery for Venture Capital and Private Equity Principals - Blackcoffer Insights
+
+Client Background Client: A leading Venture Capital and Private Equity Principals in the Globe Industry Type:  Venture Capital and Private Equity Principals Services: Private Equity, Venture Capital, Data Analysis, Fund Performance, Alternative Assets, Competitive Intelligence, Limited Partners, Customized Benchmarks, Service Providers, Fund of Funds, M&A, and Financial Services Organization Size: 100+ The Problem Our Solution Solution Architecture Deliverables Tools […]
+An ETL solution for an Internet Publishing firm - Blackcoffer Insights
+
+Client Background Client: A leading internet publishing firm in Singapore and Australia Industry Type:  Internet Publishing Services: peer-to-peer car sharing platform where you can rent a large variety of cars, always nearby at great value Organization Size: 100+ Project Objective Project Description We need to fetch last month’s call details (from user, to user, call_time, call_status ) using zendesk […]
+AI-Based Algorithmic Trading Bot for Forex - Blackcoffer Insights
+
+Client Background Client: A leading trading firm in the USA Industry Type:  Finance Services: Trading, Banking, Investment Organization Size: 100+ The Problem Our Solution Deliverables Tools used Pandas, numpy, scikit-learn, tensorflow, flask etc. Language/techniques used Data Analysis, Data Visualization, Machine learning, Deep learning, flask web app etc. Models used Logistic Regression, LSTM model Skills used Data Analysis, Data Visualization, […]
+Equity Waterfalls Model-Based SaaS Application for Real Estate Sector - Blackcoffer Insights
+
+Client Background Client: A leading real estate firm in the USA Industry Type:  real estate Services: Property business, investment, real estate Organization Size: 100+ Project Objective The objective is to create software that will calculate the equity waterfalls for different cases. And there should be 3 users admin, sponsor and investor. We need to create the equity waterfall calculation […]
+AI Solutions for Foreign Exchange - An Automated Algo Trading Tool - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in the USA Industry Type:  Financial Services Services: Trading, consulting, financial serivices Organization Size: 100+ The Problem Our main objective in this project was to help with setting up with given Broker API using MT4 and extracting historical data from it, and solving different tasks which are related to extracting important values […]
+AI agent development and Deployment in Jina AI - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in Europe Industry Type:  IT Services: IT and Consulting Organization Size: 100+ The Problem The client’s object was to create AI agents for his website, which the end-users will utilize for many tasks. The client had some recommendations on the models are utilized. Our Solution Created a feasible models list that complements […]
+Golden Record - A knowledge graph database approach to unfold discovery using Neo4j - Blackcoffer Insights
+
+Client Background Client: A leading retail firm in the USA Industry Type:  Retail Services: Retail business, consumer services Organization Size: 100+ The Problem To use data ingested into Neo4j and use the nodes and relationships with its properties to determine which nodes are actually the same person. For eg: we have Person nodes in the data, now people might […]
+Advanced AI for Trading Automation - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in Europe Industry Type:  Banking & Finance Services: Trading, and financial services Organization Size: 100+ The Problem Create an automated trading application with fully automated trading capabilities from selecting pair of assets to buying/selling assets. This application uses AI to decide what action to take while trading. Our Solution We have integrated […]
+Create a Knowledge Graph to Provide Real-time Analytics, Recommendations, and a Single Source of Truth - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in the USA Industry Type:  Retail Services: Retail Business Organization Size: 100+ The Problem The Client was using NoSql Database which was slow and did not provide real-time response for complex queries. The data had many Connections and it was difficult to represent them in NoSQL or Relational Databases. Our Solution Create […]
+Advanced AI for Thermal Person Detection - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in the Middle East Industry Type:  Security Services: Security services Organization Size: 100+ The Problem Detect a Person from thermal image and videos. Why this model was created was not told to us by the client. Our Solution Use Deeplearning Computer Vision to train the model on custom dataset and get the […]
+Advanced AI for Road Cam Threat Detection - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in the Middle East Industry Type:  Security Services: Security services Organization Size: 100+ The Problem Detect the threat level of accidents between a Pedestrian and a Car. Our Solution Use Deeplearning Computer vision and logic to detect the threat level as defined by the Client. Solution Architecture Linux 22.04 Deliverables Tools used […]
+Advanced AI for Pedestrian Crossing Safety - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in the Middle East Industry Type:  Security Services: Security services Organization Size: 100+ The Problem Traffic Signals are inefficient because even if there are no cars or no pedestrians on the road it still works on a timer and stops the traffic or pedestrian unnecessarily.  Our Solution We provide a Computer vision-logic […]
+Advanced AI for Handgun Detection - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in the Middle East Industry Type:  Security Services: Security services Organization Size: 100+ The Problem Detecting Handguns in images and videos. Our Solution We use Yolov7 instance segmentation model to detect and provide coordinates for handguns. Solution Architecture Deliverables Trained model of yolov7 instance segmentation Tools used Language/techniques used Python Models used […]
+Using Graph Technology to Create Single Customer View. - Blackcoffer Insights
+
+Client Background Client: A leading retail firm in Newzealand Industry Type:  Retail Services: Retail business Organization Size: 100+ The Problem Companies face issue of having a Single customer under various rows with slightly different information in the same database. This causes unwanted duplication and inaccurate statistics. It also results in inaccurate ad targeting and financial loss. Our Solution We […]
+Car Detection in Satellite Images - Blackcoffer Insights
+
+Client Background Client: A leading retail firm in the USA Industry Type:  Retail Services: Retail business Organization Size: 100+ Project Objective The objective of this project was to detect cars in satellite images and highlight them using a bounding box. Project Description The client, Steffen Schneider, approached us with a requirement to develop a Python project that dealt in […]
+Building a Physics-Informed Neural Network for Circuit Evaluation - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in the USA Industry Type:  Retail Services: Consulting Organization Size: 100+ Project Objective The objective of this project was to build a Physics Informed Neural Network (PINN) using TensorFlow, which could evaluate circuits based on the parameters provided through a MATLAB simulation. Project Description Mohamed provided us with a dataset generated from […]
+Connecting MongoDB Database to Power BI Dashboard: Dashboard Automation - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in Newzealand Industry Type:  Retail Services: Retail business Organization Size: 100+ Project Objective Brodie Johnco had a MongoDB Database that he wanted to connect to a Power BI Dashboard. However, ODBC connectors were not working for his level of subscription, so he needed a cheaper workaround. Project Description Brodie Johnco had a […]
+Data Transformation - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in the USA Industry Type:  Retail Services: Retail business Organization Size: 100+ Project Objective The objective of this project was to convert dirty JSON data present in a CSV file to a readable CSV file. The CSV file contained data in JSON format, which was split into columns in an Excel file, […]
+E-commerce Store Analysis - Purchase Behavior, Ad Spend, Conversion, Traffic, etc... - Blackcoffer Insights
+
+Client Background Client: A leading retail firm in the USA Industry Type:  Retail Services: Retail business Organization Size: 100+ Project Objective To create a well-designed and informative dashboard for Symbiome e-commerce website using data sourced from Bigquery Database, Google Ads, Google Analytics, and Facebook Ads. Project Description Our client, Arik Oganesian, approached us with a requirement to create a […]
+KPI Dashboard for Accountants - Blackcoffer Insights
+
+Client Background Client: A leading accounting firm in the USA Industry Type:  Finance and Accouting Services: Accounting and financial services Organization Size: 100+ Project Objective The objective of the project was to create a simple and easy-to-use dashboard for the accounting firm Tech 4 Accountants to track their highest performers, target number of clients, current week sales, tickets, customer […]
+Return on Advertising Spend Dashboard: Marketing Automation and Analytics using ETL and Dashboard - Blackcoffer Insights
+
+Client Background Client: A leading ad firm in India Industry Type:  Ads Services: Ads, Marketing, and Promotions Organization Size: 100+ The Problem The main problem that was addressed in this project was the manual calculation of Return on Advertising Spend (ROAS) due to the lack of a centralized platform for running ads. The client’s ads were spread across multiple […]
+Ranking customer behaviours for business strategy - Blackcoffer Insights
+
+Client Background Client: A Leading Retail Firm in the USA Industry Type: Retail Services: Retail Business Organization Size: 100+ The Problem Create an API service that will parse text, include comments, analyse the remarks, assign a score based on sentiment or other criteria, etc. Feed it comments, and it should analyse the syntax and sentiment of the comments as well as extract key terms to add to the extended meta data of that model. In order for us to know a user’s behaviour, personal information, and more meta data about their interests Our Solution Created a flask API, that will take comments as input and will textual analysis as follows: Spell and Grammar Check: We have used language tool python for this , LanguageTool is an open-source grammar tool, also […]
+Algorithmic trading for multiple commodities markets, like Forex, Metals, Energy, etc. - Blackcoffer Insights
+
+Client Background Client: A Leading Trading Firm in the USA Industry Type: Finance Services: Trading, Consulting, Software Organization Size: 100+ The Problem A Trading site will have all the required features, allowing users to trade in multiple commodities markets, like Forex, Agriculture, Metals, Energy etc.  Our Solution Designed the website with technical indicators, and the ability to trade in […]
+Trading Bot for FOREX - Blackcoffer Insights
+
+Client Background Client: A Leading Trading Firm in the USA Industry Type: Finance Services: Trading, Consulting Organization Size: 100+ The Problem Automate trading on the MT4 terminal for forex when certain conditions are met, and end trade at the best exit point. Save mt4 forex data for a instrument live for every tick. Our Solution Use PyTrader to log into trading system (mt4) for 2 brokers.Use live prices to identify when prices diverge.Buy one currency on broker 1, sell […]
+Python model for the analysis of sector-specific stock ETFs for investment purposes - Blackcoffer Insights
+
+Client Background Client: A Leading Investment Firm in the USA Industry Type: Finance Services: Investment, Consulting Organization Size: 100+ The Problem Have an existing Python model that has been built for the analysis of sector-specific stock ETFs for investment purposes. Need to update the existing selection criteria to adjust the selection filter and add a screening criterion that drops […]
+Medical Classification - Blackcoffer Insights
+
+Client Background Client: A Leading Tech Firm in the USA Industry Type: IT Consulting Services: Software, Consulting Organization Size: 100+ Project Objective Classify the medical research paper into 0 if the medical research paper cannot be used in future medical research and 1 if the medical research paper can be used in research based on some research-related phrases. Train […]
+Design & Develop BERT Question Answering model explanations with visualization - Blackcoffer Insights
+
+Client Background Client: A Leading Tech Firm in the USA Industry Type: IT Consulting Services: Software, Consulting Organization Size: 100+ Project Description We need to use a pre-trained bert question answering model and create a notebook that has explanations of model’s working with some visuals of bertviz, allennlp and gradient values. Our Solution We created a notebook first and […]
+Design and develop solution to anomaly detection classification problems - Blackcoffer Insights
+
+Client Background Client: A Leading Tech Firm in the USA Industry Type: IT Consulting Services: Software, Consulting Organization Size: 100+ Project Description We need to create a notebook with solutions to binary classification-related anomaly detection problems. We need to use machine learning and deep learning models which have greater than 90% accuracy.  Our Solution We created a notebook for […]
+An ETL Solution for Currency Data to Google Big Query - Blackcoffer Insights
+
+Client Background Client: A Leading Tech Firm in the USA Industry Type: IT Consulting Services: Software, Consulting Organization Size: 100+ Project Objective Fetch currency data from Pure-clear API and store it to Google cloud BigQuery. Create a Google cloud function to automate the above process. Project Description  We have given a pure-clear API and a google cloud account. We […]
+ETL and MLOps Infrastructure for Blockchain Analytics - Blackcoffer Insights
+
+Client Background Client: A Leading Blockchain Tech Firm in the USA Industry Type: AR/VR Services: Metaverse, NFT, Digital Currency Organization Size: 100+ Project Objective Code for extraction of the price of cryptocurrency  Required real-time data of cryptocurrency and this is extracted from the cryptocurrency URL  Forecast code for prediction of the price Built FastApi to reduce interaction complexity for […]
+An agent-based model of a Virtual Power Plant (VPP) - Blackcoffer Insights
+
+Client Background Client: A Leading Energy Firm in the USA Industry Type: Energy Services: Power, Energy, Distribution Organization Size: 5000+ Project Objective To create an agent based model of a virtual power plant in Netlogo. To see the function of multiple such power plants that worked simultaneously. These power plants created and supplied energy based on a demand parameter […]
+Transform API into SDK library and widget - Blackcoffer Insights
+
+Client Background Client: A Leading Tech Firm in the USA Industry Type: IT Services: Consulting, Marketing, Healthtech Organization Size: 500+ Project Objective Convert API documentation into SDK library and widget. Expected deliverables are SDK library and widgets for Web apps iOS apps Android Apps Project Description API documentation is available for a tool that allows customers to type in […]
+Integration of a product to a cloud-based CRM platform - Blackcoffer Insights
+
+Client Background Client: A Leading Logistics Firm Worldwide Industry Type: Logistics Services: Import, Export, Supply Chain, Logistics, Trades Organization Size: 500+ Project Description The main challenge faced by the team was the integration of the two systems themselves. Since one-by-one entering of records into each module is a mundane task and a waste of valuable time we proposed the […]
+A web-based dashboard for the filtered data retrieval of land records - Blackcoffer Insights
+
+Client Background Client: A Leading Real Estate Firm in the USA Industry Type: Real Estate Services: Land, Infrastructure, Real Estate, Investment Organization Size: 100+ Project Description The client’s own raw database needed to be converted into a dynamic web application with modern features like user management and subscription where users could explore land records as per their wish. Our […]
+Integration of video-conferencing data to the existing web app - Blackcoffer Insights
+
+Client Background Client: A Leading Tech Firm in the USA Industry Type: IT & Consulting Services: Software, Business Solutions, Consulting Organization Size: 200+ Project Description Integration of 3rd party APIs to client’s platform.Client required meeting/conference data from sites like gotomeeting/zoom. Our Solution Using APIs fetched data from different platform and rendered data into client’s application. Modifed web application with […]
+Design & develop an app in retool which shows the progress of the added video - Blackcoffer Insights
+
+Client Background Client: A Leading Tech Firm in the USA Industry Type: IT & Consulting Services: Software, Business Solutions, Consulting Organization Size: 200+ Project Description The objective was to develop a progress bar that can help costumes to estimate the analytics of the video.  Our Solution The client wanted a progress bar with the following filters: Date filter: – […]
+Auvik, Connectwise integration in Grafana - Blackcoffer Insights
+
+Client Background Client: A Leading Tech Firm in the USA Industry Type: IT & Consulting Services: Software, Business Solutions, Consulting Organization Size: 200+ Project Objective Get statistics such as uptime,  availability, cpu throughput etc. from Auvik and Connectwise and make a dashboard from it in Grafana. Project Description Unlike many technologies for which plugins are readily available in Grafana, […]
+Data integration and big data performance using Elasticsearch - Blackcoffer Insights
+
+Client Background Client: A Leading Tech Firm in the USA Industry Type: IT & Consulting Services: Software, Business Solutions, Consulting Organization Size: 200+ Project Objective Migrate existing databases from Postgres to elastic search since Elasticserach performs better in search operations. In addition to this, all of the backend javascript also needed to be changed in order to query the […]
+Web Data Connector - Blackcoffer Insights
+
+Client Background Client: A Leading Marketing Tech Firm in Australia Industry Type: Marketing Services: Marketing Solutions Organization Size: 50+ Project Objective To make a software code that takes data from a source and ingests it into a database present on a server. The scripts should automatically execute after regular intervals of time.  Project Description The client had several data […]
+An app for updating the email id of the user and stripe refund tool using retool - Blackcoffer Insights
+
+Retool, stripe
+An AI ML-based web application that detects the correctness of text in a given video - Blackcoffer Insights
+
+Docker Redis Server Django Celery Nginx Opencv NLTK Moviepy
+Website Tracking and Insights using Google Analytics, & Google Tag Manager - Blackcoffer Insights
+
+Digital Analysis Data Analysis Digital Marketing Google Analytics
+Dashboard to track the analytics of the website using Google Analytics and Google Tag Manager - Blackcoffer Insights
+
+Google Analytics: To track events, goal conversions and analyse the traffic sources/medium, the top viewed pages and the top cities and countries. Google Tag Manager: To set up the tags and triggers of button clicks, page visits as events in Google Analytics. Google Data Studio: To visually represent important metrics like impressions, clicks, goal completions using Google Analytics.
+Power BI Dashboard on Operations, Transactions, and Marketing, Anaytics
+
+Client Background Client: A leading tech firm in the USA Industry Type: IT Services Services: Consulting, Software, Marketing Solutions Organization Size: 100+ Project Objective Create a dashboard with Assets Performance With react App. So users can evaluate with Key metrics from data analytics and forecasting. Project Description The client requires two pages: Screening Asset Performance  Portfolio Investing according to […]
+NFT Data Automation (looksrare), and ETL tool - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in the USA Industry Type: IT Services Services: Blockchain, NFT Organization Size: 10+ Project Objective To scrape all the desired information regarding the NFTs from a website and store them in a database to be accessed later on. Project Description Matthew Brown – extract all events, all time from this https://looksrare.org/explore/activity . […]
+Optimize the data scraper program to easily accommodate large files and solve OOM errors - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in India Industry Type: IT Services Services: SAAS services, Marketing services, Business consultant Organization Size: 100+ Project Description Building a large data warehouse that houses projects and tenders data from all over the world that is to be collected from official government websites, multilateral banks, state and local government agencies, data aggregating […]
+Making a robust way to sync data from airtables to mongoDB using python - ETL Solution - Blackcoffer Insights
+
+To make a robust way to sync all the data from airtables to a mongoDB database using python.
+Incident Duration Prediction - Infrastructure and Real Estate - Blackcoffer Insights
+
+Client Background Client: A leading research institution in the middle east Industry Type:  Research Services: R&D Organization Size: 1000+ Project Objective To complete a Research Paper draft by training various Machine Learning models which can predict the Incident Duration based on various parameters given in the dataset and summarising the results. Project Description Given a set of researches, need […]
+Statistical Data Analysis of Reinforced Concrete - Blackcoffer Insights
+
+Jupyter - Notbebook (Python), Numpy, Pandas, Sklearn, Matplotlib, Seaborn, MS Excel, Google spreadsheets
+Database Normalization & Segmentation with Google Data Studio Dashboard Insights - Blackcoffer Insights
+
+Python, Google Data Studio, Google Chrome
+Power BI dashboard to drive insights from complex data to generate business insights - Blackcoffer Insights
+
+Python, PowerBI, Google Chrome, Data cleaning, Data Pre-processing, Data Visualisation are used in this project.
+Real-time dashboard to monitor infrastructure activity and Machines - Blackcoffer Insights
+
+Django, Web Channels, D3.js, Reddis server, Python, Aws, Dashboard, Machines, Cloud, S3, S2, Analysis, data
+Electric Vehicles (EV) Load Management System to Forecast Energy Demand - Blackcoffer Insights
+
+Python, Data Analytics, numpy, pandas, Data Visualization with matplotlib, Statistics, Mathematics, Machine learning, SKlearn.
+Power BI Data-Driven Map Dashboard - Blackcoffer Insights
+
+Power BI, Data Visualization, Data Analysis
+Google Local Service Ads (LSA) Leads Dashboard - Blackcoffer Insights
+
+Data in databases: The data is divided into three parts: Historical Account Data, Historical Phone Lead and Historical Message Lead. Using these three data, we calculate and store other important metrics like Cost per Acquisition, Conversion Rate, number of booked leads, number disputed leads, pending leads and approved leads. Google data studio dashboard: The dashboard will show the count of important metrics like total number of records, total interactions and different types of leads. It will represent different types of graphs portraying different kinds of information and tables containing major data like Lead data combined and Net monthly spent on Ads. 
+AWS Lex Voice and Chatbot - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in USA Industry Type:  IT Services: eCommerce Organization Size: 40+ Project Objective Create a Voice and chatbot using AWS lex which can book flights, hotels, cars and book some fun activities in a city. Project Description We need to create a voice and chatbot using AWS lex and lambda function. The bot […]
+MetaBridges API Decentraland Integration - AR, VR - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in the USA Industry Type:  IT Services: Consulting, Software, Blockchain, Metaverse Organization Size: 20+ Project Objective To integrate with Metaverse environments with the help of EC2, S3 bucket and the Decentraland SDK. Project Description Move 3D model files from EC2 instance to S3 bucked using aws-sdk. Our Solution Configure  s3 bucket in […]
+Microsoft Azure chatbot with LUIS (Language Understanding) - Blackcoffer Insights
+
+Client Background Client: A leading retail firm in the USA Industry Type:  Retail Services: e-commerce, retail business Organization Size: 100+ Project Objective To create an advanced chatbot using Microsoft Azure cognitive service to take orders from customer on behalf of a pizza restaurant and give order summary as end result to the user.  Project Description The project uses MS […]
+Impact of news, media, and press on innovation, startups, and investments - Blackcoffer Insights
+
+Client Background Client: A leading research institution in the word Industry Type:  Research, R&D Services: R&D Organization Size: 1000+ Project Objective Make data ready for predictive modelling.  Making Google Data Studio dashboard. Project Description Phase – 1: In this project first of all we have to clean the data as the data was very noisy, we have to […]
+AWS QuickSight Reporting Dashboard - Blackcoffer Insights
+
+Client Background OverviewAs a Singapore and Australia based startup, Drive lah (known as Drive mate in Australia) is a peer-to-peer car sharing platform where you can rent a large variety of cars, always nearby at great value. All trips on Drive lah are comprehensively insured through our insurance partners so car owners don’t have to […]
+Google Data Studio Dashboard for Marketing, ads and Traction data - Blackcoffer Insights
+
+Client Background OverviewBankiom – the super banking app for MENA on a mission to make managing your finances easier. ☞ Open an account on your phone and get a virtual card in 3 minutes or less☞ Manage all your bank accounts from one app and one control panel☞ Save money and grow your wealth Websitehttp://www.bankiom.comCompany […]
+Gangala.in: E-commerce Big Data ETL / ELT Solution and Data Warehouse - Blackcoffer Insights
+
+Client Background Client: A leading eCommerce firm in the USA, Columbia, India, and Latin America Gangala promotes local shops selling a wide variety of products at great prices. Easily find the best offers using our price comparison tool. It’s a WIN WIN for … Industry Type:  eCommerce Services: e-commerce, retail business Organization Size: 100+ Project Title Gangala.in: E-commerce site gathering data […]
+Big Data solution to an online multivendor marketplace eCommerce business - Blackcoffer Insights
+
+Client Background Client: A leading eCommerce firm in the USA, Columbia, India, and Latin America Gangala promotes local shops selling a wide variety of products at great prices. Easily find the best offers using our price comparison tool. It’s a WIN WIN for … Industry Type:  eCommerce Services: e-commerce, retail business Organization Size: 100+ Project Objective To give User experience of […]
+Creating a custom report and dashboard using the data got from Atera API - Blackcoffer Insights
+
+Client Background Client: A leading Marketing firm in USA Industry Type:  Marketing Services: Marketing, consulting, ads, business solutions Organization Size: 20+ Project Description Atera.com is used as our RMM, we have an agent on every machine. Which tracks the if a machine goes down, initial response time etc.., The website doesn’t provide any standard reports, So we needed to […]
+Azure Data Lake and Power BI Dashboard - Blackcoffer Insights
+
+Client Background OverviewStone is a video bibliographic tool for journalists and other researchers. It allows users to capture, annotate and share their journeys through digital and physical space, producing verifiable logs and generating monetizeable video highlight reels that can be embedded in digital and other media – showcasing key moments and telling the story behind […]
+Google Data Studio Pipeline with GCP/MySQL - Blackcoffer Insights
+
+Client Background Client: A leading IT firm in Europe Industry Type:  IT Services: e-commerce, retail business, marketing, Consulting Organization Size: 100+ Project Objective Creating a Data Pipeline to sync live data from FieldPulse to Google Data Studio using GCP/MySQL. Project Description There is a Virtual Machine up and running and MySQL in Google Cloud(GCP). Get the following live data […]
+QuickBooks dashboard to find patterns in finance, sales, and forecasts - Blackcoffer Insights
+
+Client Background Client: A leading marketing firm in the USA Industry Type:  Marketing Services: e-commerce, retail business, marketing Organization Size: 100+ Project Objective Build a fully Integrated BI Platform in PowerBI using native connectors and APIs(QuickBooks and Airtable) to pull real time data from many sources. Project Description For building a fully integrated BI Platform , the data has […]
+Marketing, sales, and financial data business dashboard (Wink Report) - Blackcoffer Insights
+
+Client Background Client: A leading retail firm in Australia Industry Type:  Retail Services: e-commerce, retail business, marketing Organization Size: 100+ Project Objective Bringing in data from many sources(Google Analytics , ServiceM8 and Xero etc.) and making Business Dashboard KPIs in Wink Report. Project Description For building Business Dashboards in Wink Report , collect data from the following sources –  […]
+React Native Apps in the Development Portfolio - Blackcoffer Insights
+
+Here are the list of react native apps developed by the team and the resources: https://itunes.apple.com/us/app/truckmap-truck-gps-routes/id1198422047?mt=8 https://play.google.com/store/apps/details?id=com.truckmap.truckmap https://play.google.com/store/apps/details?id=com.verifai.standalone https://apps.apple.com/nl/app/verifai/id1504214033 https://apps.apple.com/de/app/meetlist-lokale-aktivit%C3%A4ten/id1439183715 https://play.google.com/store/apps/details?id=de.mlug.meetlist https://play.google.com/store/apps/details?id=com.payroo.employee https://play.google.com/store/apps/details?id=com.vahcare https://play.google.com/store/apps/details?id=com.candorivf
+A Leading Law Firm in the USA, Website SEO & Optimization - Blackcoffer Insights
+
+Client Background Client: A leading marketing firm in the USA Industry Type:  Marketing Services: Marketing consulting Organization Size: 100+ Project Objective Connect website to Search Console, Google Analytics and Facebook Pixel through Google Tag Manager. Fix SEO of the website. Project Description  Connecting website to Google Search Console, Google Analytics and Facebook Pixel through Google Tag Manager. Fixing SEO […]
+A Leading Hospitality Firm in the USA, Website SEO & Optimization - Blackcoffer Insights
+
+Client Background Client: A leading marketing firm in the USA Industry Type:  Marketing Services: Marketing consulting Organization Size: 100+ Project Objective Working On-page SEO of the pages to make it user-friendly and feasible for crawlers to make the site indexing better. Project Description Firstly, exploring the Liverez as it was a new platform then, performing intermediate SEO like page […]
+A Leading Firm in the USA, Website SEO & Optimization - Blackcoffer Insights
+
+Client Background Client: A leading marketing firm in the USA Industry Type:  Marketing Services: Marketing consulting Organization Size: 100+ Project Objective Fixing On-Page SEO of the website Project Description Fixing On-Page SEO contains things like title, meta description, image-alt text, broken links, 404 error page, multiple h1 tag in one page, duplicate title/description, dynamic URL, sparse content page (word […]
+A Leading Musical Instrumental, Website SEO & Optimization - Blackcoffer Insights
+
+Client Background Client: A leading marketing firm in the USA Industry Type:  Marketing Services: Marketing consulting Organization Size: 100+ Project Objective Connect website to Google Tag Manager. Remove error. Project Description Remove all previously added code and add new code for connecting to Google Tag Manager. Remove 5xx error from the website. Our Solution Website connected to Google Tag […]
+A Leading Firm in the USA, SEO and Website Optimization - Blackcoffer Insights
+
+Client Background Client: A leading marketing firm in the USA Industry Type:  Marketing Services: Marketing consulting Organization Size: 100+ Project Objective Connect website to Search Console. Add Call Rail Code Project Description Connecting website to Google Search Console through Google Tag Manager. Connect website with CallRail. Our Solution Website connected to Google Search Console successfully. Added CallRail code to […]
+Immigration Datawarehouse & AI-based recommendations - Blackcoffer Insights
+
+Client Background Client: A leading business school worldwide Industry Type:  R&D Services: R&D, Innovation Organization Size: 100+ Project Objective Objective of this project is to research and collect news article data sourcing from Canada, based on the keyword.  Project Description There were 3 phases of the project.  Phase 1– Data collection and selection Data related to anyone coming to […]
+Lipsync Automation for Celebrities and Influencers - Blackcoffer Insights
+
+Client Background Client: A leading tech firm in India Industry Type:  Entertainment Services: B2C Organization Size: 100+ Project Objective To change the lipsing of the original video with the new replaced audio. Project Description We needed to create an output video that will have the new lipsing according to the new replaced audio. Also we will have to change […]
+Key Audit Matters Predictive Modeling - Blackcoffer Insights
+
+Client Background Client: A leading business school worldwide Industry Type:  R&D Services: Research & Innovation Organization Size: 10000+ Project Objective Do regression modeling on the data provided, cross-country determinants of Key Audit Matters (KAMs) and its usefulness to Investors and Debt Market Participants Project Description USEFULNESS TO EQUITY MARKETS Examine whether the number and content of KAMs varies with […]
+Splitting of Songs into its Vocals and Instrumental - Blackcoffer Insights
+
+Client Background Client: A leading Entertainment firm in the USA Industry Type:  Entertainment Services: Music Organization Size: 100+ Project Objective The objective of this project is to split a song into its vocals and instrumental. Project Description The project aims at taking a Hindi language song as input and separating the vocals(lyrics) from the instrumental music of the song. […]
+AI and ML technologies to Evaluate Learning Assessments - Blackcoffer Insights
+
+Client Background Client: A leading EduTech firm in the USA Industry Type:  EduTech Services: Educations. Training Organization Size: 1000+ Project Objective Confirmation / Identification of data that can be used / obtained without bias. Understanding the Actions that are required to be performed post analytics. Converting the data into metrics using formulae that can be used to conduct the […]
+Datawarehouse, and Recommendations Engine for AirBNB - Blackcoffer Insights
+
+Client Background Client: A leading hotels chain in the USA Industry Type:  Real Estate, Hospitality Services: Hostpitality Organization Size: 1000+ Project Objective To download the data from the servers using Cyberduck on the daily basis and perform data engineering on it.  Project Description Firstly, download the property and forward files from the server Secondly, From the property master file […]
+Real Estate Data Warehouse - Blackcoffer Insights
+
+Client Background Client: A leading Real Estate firm in the EU Industry Type:  Real Estate Services: Real Estate Organization Size: 1000+ Project Objective The objective of this project is to build a data warehouse from a website given search and filter criteria. Project Description The objective of this project is to collect data from a website given search and […]
+Traction Dashboards of Marketing Campaigns and Posts - Blackcoffer Insights
+
+Client Background Client: A leading Marketing firm in the USA Industry Type:  Marketing Services: Marketing consulting Organization Size: 100+ Project ObjectiveFor the LinkedIn posts that received the highest engagement, which keywords, phrases, and hashtags were most commonly used and also view the data according to Impressions and Likes?  Project Description We are testing AWS Comprehend. I performed a key […]
+Google Local Service Ads (LSA) Data Warehouse - Blackcoffer Insights
+
+Client Background Client: A leading Marketing firm in the USA Industry Type:  Marketing Services: Marketing consulting Organization Size: 100+ Project Objective Automated tool to extract daily review data from Local Service Ads dashboard for all clients. Project Description Extracts data from a company’s Google LSA page for the last 24 hours The data is uploaded to the Bigquery database […]
+Google Local Service Ads Missed Calls and Messages Automation Tool - Blackcoffer Insights
+
+Client Background Client: A leading Marketing firm in the USA Industry Type:  Marketing Services: Marketing consulting Organization Size: 100+ Project Objective A real time tool to send a report of missed calls and messages to the client. Project Description Extracts data from CallRail database for the last 5 minutes All the calls which are marked as “missed” and all […]
+Marketing Ads Leads Call Status Data Tool to BigQuery - Blackcoffer Insights
+
+Client Background Client: A leading Marketing firm in the USA Industry Type:  Marketing Services: Marketing consulting Organization Size: 100+ Project Objective Prepare a daily report for the companies and upload it to BigQuery database. Data is from callrail and contains all call information about a company. Project Description Extracts data from CallRail database for the last 24 hours The […]
+Marketing Analytics to Automate Leads Call Status and Reporting - Blackcoffer Insights
+
+Client Background Client: A leading Marketing firm in the USA Industry Type:  Marketing Services: Marketing consulting Organization Size: 100+ Project Objective Prepare a daily report for the companies and upload it to Google Sheets. Data is from callrail and contains all call information about a company. Project Description Extracts data from CallRail database for the last 24 hours The […]
+CallRail, Analytics & Leads Report Alert - Blackcoffer Insights
+
+Client Background Client: A leading Marketing firm in the USA Industry Type:  Marketing Services: Marketing consulting Organization Size: 100+ Project Objective Prepare an annual report for the companies and upload it to database. Data is from callrail and contains call analytics. Project Description Extracts data from CallRail database for the last 1 year. The data is uploaded to BigQuery […]
+Marketing Tool to Notify Leads to Clients over Email and Phone - Blackcoffer Insights
+
+Client Background Client: A leading Marketing firm in the USA Industry Type:  Marketing Services: Marketing consulting Organization Size: 100+ Project Objective Prepare a daily report for data from Local Service Ads dashboard and email to client. Project Description Extracts data from the LSA dashboard for the last 24 hours. The data is sent to the client email in the […]
+Data ETL: Local Service Ads Leads to BigQuery - Blackcoffer Insights
+
+Client Background Client: A leading Marketing firm in the USA Industry Type:  Marketing Services: Marketing consulting Organization Size: 100+ Project Objective Upload daily data from Google Local Service Ads dashboard to BigQuery database. Project Description Extracts data from LSA dashboard for the last 24 hours. The data is uploaded to BigQuery database “lsa_lead_daily_data” The script runs every morning […]
+Marbles Stimulation using python - Blackcoffer Insights
+
+Client Background Client: A leading consulting firm in the USA Industry Type: IT Consulting Services: Consultanting Organization Size: 100+ Project Objective For all 4 cases, use a random number generator that will give you numbers between 1 & a million [1,000,000].  Whatever generator you use, make sure to adjust the numbers so that they are between 1 & 1,000,000 […]
+Stocktwits Data Structurization - Blackcoffer Insights
+
+Client Background Client: A leading financial institution in the USA Industry Type: Financial services & Consulting Services: Financial consultant Organization Size: 100+ Project Objective >To process two json file stocktwits_legacy_msg_2015_10.txt (file size = 2 GB) & stocktwits_legacy_msg_2015_10.txt (file size = 3.5 GB). >To handle Nested Json for both files and after conversion into one merged Data Frame need to […]
+Sentimental Analysis on Shareholder Letter of Companies - Blackcoffer Insights
+
+Client Background Client: A leading financial firm in the USA Industry Type: Financial services & Consulting Services: Financial consultant Organization Size: 100+ Project Objective Project “Sentimental Analysis on Shareholder Letter of Companies” objective was to Predict the Sentiments columns Shareholder Letter in terms of Polarity and Subjectivity finally classification of data into positive, negative and neutral tone. Project Description […]
+Population and Community Survey of America - Blackcoffer Insights
+
+Client Background Client: A leading marketing firm in the USA Industry Type: Marketing services & Consulting Services: Marketing consultant Organization Size: 100+ Project Objective Project ‘Population and Community Survey of America’ objective were to perform Data Abstraction, Data Structurization, Data Preprocessing, Data Cleaning, and Combining Data from all the years listed and finally presenting insights of the data by […]
+Google LSA API Data Automation and Dashboarding - Blackcoffer Insights
+
+Client Background Client: A leading marketing firm in the USA Industry Type: Marketing services & Consulting Services: Marketing consultant Organization Size: 100+ Project Objective For this project objective was to perform API Data Abstraction using Google LSA API in GCP, Automation of data fetching and storing in BigQuery on daily basis, Storing Historical data for all active companies, Fetching […]
+Healthcare Data Analysis - Blackcoffer Insights
+
+Client Background Client: A leading healthcare tech firm in the USA Industry Type: Healthcare Consulting Services: Management consultant Organization Size: 100+ Project Objective The main objective of this project is to find the pattern in the vital signs of patients who were admitted to the hospital in past. And from this pattern, we get some ranges that help us […]
+Budget, Sales KPI Dashboard using Power BI - Blackcoffer Insights
+
+Project Description Weekly Data – clustered bar chart for weekly Budget & Actual value , weekly Total Budget & Actual value (completed) YTD Data – clustered bar chart for monthly Budget & Actual value , monthly Total Budget & Actual value (completed) Sales History – stacked chart for yearly sales with each month sales , […]
+Amazon Buy Bot, an Automation AI tool to Auto-Checkouts - Blackcoffer Insights
+
+Client Background Client: A leading consulting firm in the USA Industry Type: Consulting Services: Management consultant Organization Size: 100+ Project Objective The main objective of this project is to build the automation tool to buy product on amazon. Project Description This project is basically completed using selenium and Python. All we have done is write a python script for […]
